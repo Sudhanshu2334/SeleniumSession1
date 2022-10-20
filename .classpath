@@ -6,7 +6,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/seleniumjar/selenium_server/selenium-server-4.1.4.jar"/>
-	<classpathentry kind="lib" path="C:/seleniumjar/selenium_server/selenium-server-4.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/seleniumjar/selenium_server/selenium-server-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PRIMANDA/Downloads/selenium-server-4.5.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
